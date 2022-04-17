@@ -1,13 +1,11 @@
-.data
-.code
-start:
-org 100h
-mov eax, 2
-mov dl, 41h
-int 21h
-int 20h
+        global    _main
 
-END start
+section .text
+_main:  mov eax, [num1]
+	add eax, [num2]
+        mov [result], eax
 
+        num1 dd 8
+	num2 dd 2
 
-;нужно переделать
+        result dd 0
