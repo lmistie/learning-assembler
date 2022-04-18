@@ -1,4 +1,4 @@
-<h1 align="center"><font size="6px">Assembler и вся его красота на процессорах INTEL для MacOS</font></h1>
+<h1 align="center"><font size="6px">Assembler и его красота на INTEL для MacOS</font></h1>
 <!--Заголовок-->
 
 <h2 align="center">
