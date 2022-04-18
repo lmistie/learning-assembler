@@ -7,4 +7,8 @@
 
 </h2>
 
+<h2 align="center">
+
 ![IMG](https://github.com/lmistie/learning-assembler/blob/main/img/foto.png)
+
+</h2>
